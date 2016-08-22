@@ -1,0 +1,12 @@
+#show-places{
+  display: none;
+}
+
+.places{
+  cursor:crosshair;
+  color: #0088cc;
+}
+
+.places:hover{
+  text-decoration: underline;
+}
